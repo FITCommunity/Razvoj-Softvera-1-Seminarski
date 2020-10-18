@@ -4,6 +4,7 @@
 * Preimenovati forkan repository: `Naziv_Predmeta-Seminarski-Naziv_Seminarskog-Broj_Seminarskog` (broj seminarskog dodati samo u slučaju više seminarskig radova sa istim nazivom)
 * Otvoriti issue `New Entry` i navesti sve informacije
 
+
 # Kako prebaciti repository sa Azura DevOpsa na Github
 
 1. Kreirati repository na githubu
@@ -56,3 +57,4 @@ git pull dokumenti master
 ```
 git push origin dokumenti
 ```
+
