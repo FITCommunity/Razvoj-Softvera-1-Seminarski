@@ -9,4 +9,3 @@ labels: 'request'
 * Naziv:
 * Link za repository:
 * Linkovi profila studenata:  
-    * 
